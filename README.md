@@ -1,13 +1,12 @@
 # Hi there 👋 I'm Aaron Roy
 
-- 🧠 **Currently:** Product Director at [Manychat](https://manychat.com/)
-- 🚀 **Previously:** Head of Product at [Teachable](https://teachable.com/), product leader at Bond (acquired by Newell), and founding team at [3DPrinterOS](https://www.3dprinteros.com/)
-- 🤖 **Also building:** Co-founder & CEO of **Wami**, a robotics company producing handwritten notes at scale for brands like Gucci, Cartier, and Prada
+🧠 **Currently:** Product Director at [Manychat](https://manychat.com/)
 
 ## Projects
 
 - 🍞 [**GlutenOrNot**](https://glutenornot.com) — ingredient scanner for celiac/gluten sensitivity (web + mobile)
-- 🚴 [**Fantasy Cycling Tracker**](https://glutenornot.com) - time tracker for cycling grand tours using procycling stats api 
+- 🚴 [**Fantasy Cycling Tracker**](https://github.com/amr05008/fantasytourapp) - time tracker for cycling grand tours using procycling stats api
+- 🤖 [**Wami**](https://wami.io) - robotics company producing handwritten notes at scale for brands like Gucci, Cartier, and Prada
 
 ## Latest blog posts: 
 
