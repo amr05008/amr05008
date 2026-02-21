@@ -4,7 +4,7 @@
 
 ## Projects
 
-- 🍞 [**GlutenOrNot**](https://glutenornot.com) — ingredient scanner for celiac/gluten sensitivity (web + mobile)
+- 🍞 [**GlutenOrNot**](https://glutenornot.com) — ingredient and menu scanner for celiac/gluten sensitivity (web + mobile)
 - 🚴 [**Fantasy Cycling Tracker**](https://github.com/amr05008/fantasytourapp) - time tracker for cycling grand tours using procycling stats api
 - 🤖 [**Wami**](https://wami.io) - robotics company producing handwritten notes at scale for brands like Gucci, Cartier, and Prada
 
