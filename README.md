@@ -10,6 +10,7 @@
 
 ## Latest blog posts: 
 
+- [Giving agents personal context](https://aaronroy.com/giving-agents-personal-context/)
 - [GlutenOrNot: A free ingredient scanner for celiac disease](https://aaronroy.com/glutenornot-free-ingredient-scanner-celiac-disease)
 - [Experiments with Strava MCP](https://aaronroy.com/experiments-with-strava-mcp)
 - [Building products in the age of AI](https://aaronroy.com/building-products-age-of-ai)
