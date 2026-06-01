@@ -10,6 +10,7 @@
 
 ## Latest blog posts: 
 
+- [How to build a personal morning briefing](https://aaronroy.com/how-to-build-a-personal-morning-briefing/)
 - [Giving agents personal context](https://aaronroy.com/giving-agents-personal-context/)
 - [GlutenOrNot: A free ingredient scanner for celiac disease](https://aaronroy.com/glutenornot-free-ingredient-scanner-celiac-disease)
 - [Experiments with Strava MCP](https://aaronroy.com/experiments-with-strava-mcp)
