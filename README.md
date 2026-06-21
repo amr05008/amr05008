@@ -5,11 +5,12 @@
 ## Projects
 
 - 🍞 [**GlutenOrNot**](https://glutenornot.com) — ingredient and menu scanner for celiac/gluten sensitivity (web + mobile)
-- 🚴 [**Fantasy Cycling Tracker**](https://github.com/amr05008/fantasytourapp) - time tracker for cycling grand tours using procycling stats api
+- 🚴 [**Fantasy Cycling Tracker**](https://github.com/amr05008/tdf-fantasy-tracker) - infrastructure to run Tour de France fantasy cycling leagues. Tracks cumulative stage times using procycling stats api
 - 🤖 [**Wami**](https://wami.io) - robotics company producing handwritten notes at scale for brands like Gucci, Cartier, and Prada
 
 ## Latest blog posts: 
 
+- [GlutenOrNot version 1.2 - check out the fresh coat of paint](https://aaronroy.com/glutenornot-redesign/)
 - [How to build a personal morning briefing](https://aaronroy.com/how-to-build-a-personal-morning-briefing/)
 - [Giving agents personal context](https://aaronroy.com/giving-agents-personal-context/)
 - [GlutenOrNot: A free ingredient scanner for celiac disease](https://aaronroy.com/glutenornot-free-ingredient-scanner-celiac-disease)
